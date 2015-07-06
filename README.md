@@ -1,4 +1,4 @@
-##BREAKING DOWN AN APP 
+##APP ARCHITECTURE
 
 ###Objective SWBAT:
 * As a group, write the bulk of the design doc for a previous CSSI App
