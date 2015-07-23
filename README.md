@@ -9,13 +9,13 @@
 * By the end of today, you will have submitted your design doc for your group. This is a great tool to help you plan your project and the components that will make it up. You have all the skills to make an amazing web app, and today is the first step to getting it done.
 
 ###The Design Doc
-By the end of today your team will have decided on what app to build and outlined the steps to make sure you are successful. The design doc is [here.](https://docs.google.com/document/d/1FfGkMtNuSul1wQFao-soWyBBRIQBPBSQVrjKTS0HGGU/edit?usp=sharing). You will copy and paste the template into your own new Google Doc on your own account. Then share it with your team.
+By the end of today your team will have decided on what app to build and outlined the steps to make sure you are successful. The design doc is [here](https://docs.google.com/document/d/1FfGkMtNuSul1wQFao-soWyBBRIQBPBSQVrjKTS0HGGU/edit?usp=sharing). You will copy and paste the template into your own new Google Doc on your own account. Then share it with your team.
 
 The meat and potatoes of the design doc os questions 5-7. That's where we're going to spend most of our energy today, and where you should spend most of you energy this afternoon. Don't be the group that has nothing to turn in because they spend 90 minutes deciding on a team name!
 
 ###What makes Movie Spotter Work?
 
- [Movie Spotter](https://movie-spotter.appspot.com/home) is an app from CSSI - Cambridgelast year.
+ [Movie Spotter](https://movie-spotter.appspot.com/home) is an app from CSSI - Cambridge last year.
 
 Let's think through what the heart of their Design Doc might have looked like last year - Questions 5,6 and 7
 
@@ -46,5 +46,4 @@ Let's think through what the heart of their Design Doc might have looked like la
 Since this is a mock-up, we can be happy understanding a) what each component will look like and b) what logic we will need to implement.
 
 ### Conclusion
-Notice we don’t need to fully understand HOW to implement our logic, but rather we should have a general understanding of what technology we can use. 
-
+Notice we don’t need to fully understand HOW to implement our logic, but rather we should have a general understanding of what technology we can use. Here is the [design doc for Mountainview] (https://docs.google.com/a/google.com/document/d/12qPuYRBiP1AR6rJjbyzG2p_bm--bJ5SPVWK_cTpvA8w/edit?usp=sharing)
