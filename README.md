@@ -47,3 +47,5 @@ Since this is a mock-up, we can be happy understanding a) what each component wi
 
 ### Conclusion
 Notice we don’t need to fully understand HOW to implement our logic, but rather we should have a general understanding of what technology we can use. Here is the [design doc for Mountainview] (https://docs.google.com/a/google.com/document/d/12qPuYRBiP1AR6rJjbyzG2p_bm--bJ5SPVWK_cTpvA8w/edit?usp=sharing)
+
+<a href='https://learn.co/lessons/cssi-10.1-webapp-architecture' data-visibility='hidden'>View this lesson on Learn.co</a>
